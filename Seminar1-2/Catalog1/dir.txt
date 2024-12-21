@@ -1,0 +1,12 @@
+total 20
+-rw-rw-r-- 1 evgeniy evgeniy    0 сен 28 19:17 dir.txt
+-rw-r--r-- 1 evgeniy evgeniy    0 сен 28 18:35 f1
+-rwxrw-r-- 1 evgeniy evgeniy    0 сен 28 18:35 f2
+-r-xrw-r-- 1 evgeniy evgeniy    0 сен 28 18:35 f3
+-rw-rw-rw- 1 evgeniy evgeniy    0 сен 28 18:35 f4
+-r--r--r-- 1 evgeniy evgeniy    0 сен 28 18:35 f5
+-rw-rw-r-- 1 evgeniy evgeniy  231 сен 28 18:23 file1.txt
+-rw-rw-r-- 1 evgeniy evgeniy 1785 сен 28 18:24 file2.txt
+-rw-rw-r-- 1 evgeniy evgeniy  231 сен 28 18:51 file4.txt
+drwxrwxr-x 2 evgeniy evgeniy 4096 сен 28 18:49 Mydir1
+drwxrwxr-x 4 evgeniy evgeniy 4096 сен 28 19:13 Subdir1
